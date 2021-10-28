@@ -1,7 +1,4 @@
 - 👋 Hi, I’m Tanjim Rahman
-- 👀 I’m interested in Web application development and DSA
-- 🌱 I’m currently learning Angular
-- 💞️ I’m looking to collaborate on anything
 - 📫 Contact me on tanjim9870@gmail.com
 
 <!---
